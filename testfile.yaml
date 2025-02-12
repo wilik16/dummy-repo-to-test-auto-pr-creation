@@ -1,4 +1,4 @@
 service:
   config:
     TITLE: Description
-    CURRENCY_CODES: "USD,GBP"
+    CURRENCY_CODES: "USD,GBP,IDR"
